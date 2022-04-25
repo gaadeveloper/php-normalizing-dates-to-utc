@@ -15,7 +15,7 @@ Refer to the **index.php** file/page to find the main extracts of code and expla
 git clone https://github.com/gaadeveloper/php-normalizing-dates-to-utc.git
 ```
 
-2. Create a new database on your favorite database administration tool, and create the table 'dates' in this newly-created database running the following DDL code on a new SQL script:
+2. Create a new PostgreSQL database on your favorite database administration tool, and create the table 'dates' in this newly-created database running the following DDL code on a new SQL script:
 
 ```
 -- public.dates definition
